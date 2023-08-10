@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Naveen S,
-- 👀 I’m interested in Web Developement, DSML.
-- 🌱 I’m currently learning Web development.
 ### Here are some things I built to learn.
-- HTML, CSS, Javascript
+- HTML, CSS, Javascript, Python
   - [Youtube Playlist length calculator](https://naveeens.github.io/How-much-longer/)
 
 <!---
